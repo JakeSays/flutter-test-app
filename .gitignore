@@ -1,0 +1,10 @@
+**/doc/api/
+.dart_tool/
+.flutter-plugins
+.packages
+.pub-cache/
+.pub/
+.idea/
+/build/
+pubspec.lock
+.vscode/
